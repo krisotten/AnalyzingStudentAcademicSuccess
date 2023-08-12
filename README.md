@@ -1,4 +1,4 @@
-# AnalyzingStudentAcademicSuccess
+# Analyzing Contributing Factors to Student Likelihood to Drop Out
 
 I completed this project using the "Predict students dropout, academic success" from Kaggle. All queries were written and tested using the sqledge SQL server through Docker and Azure Data Studio. The goal of this project is to analyze how the percentage of student dropouts may vary according to the provided student information and academic performance. 
 
